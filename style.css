@@ -141,3 +141,8 @@ a{
     border:5px solid white;
     margin-bottom:20px;
 }
+.project-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
